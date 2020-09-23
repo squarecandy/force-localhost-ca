@@ -23,3 +23,8 @@ define( 'CUSTOM_LOCAL_CA_TLDS',
 	)
 );
 ```
+
+## thanks
+
+Thanks to [@healdev](https://github.com/healdev) and [@Kevinlearynet](https://github.com/Kevinlearynet) for initial code and concept for this fix.
+Original thread: https://github.com/FiloSottile/mkcert/issues/165
